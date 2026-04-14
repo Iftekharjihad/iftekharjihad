@@ -42,7 +42,7 @@
 # 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekharjihad&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekharjihad&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -55,10 +55,11 @@
 <img src="https://leetcard.jacoblin.cool/Iftekharjihad?theme=dark&font=Nunito"/>
 </p>
 
-### Codeforces Stats
+
+# 🏆 Codeforces Stats
 
 <p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Iftekharjihad&theme=dark"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Jihad_923&theme=dark"/>
 </p>
 
 ---
@@ -73,10 +74,21 @@
 
 # 📫 Connect With Me
 
+# 📫 Connect With Me
+
 <p align="center">
 <a href="https://github.com/Iftekharjihad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/iftekhar-islam-jihad">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:iftekharislam923@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
