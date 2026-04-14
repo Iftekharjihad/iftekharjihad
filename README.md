@@ -42,7 +42,7 @@
 # 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekharjihad&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iftekharjihad&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ### LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Iftekharjihad?theme=dark&font=Nunito"/>
+<img src="https://leetcard.jacoblin.cool/iftekharislam923?theme=dark&font=Nunito&ext=heatmap"/>
 </p>
 
 
@@ -71,8 +71,6 @@
 </p>
 
 ---
-
-# 📫 Connect With Me
 
 # 📫 Connect With Me
 
